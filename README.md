@@ -3,7 +3,7 @@ Just another Telegram AI chat bot written in Python using Pyrogram.
 
 A public running instance can be found on telegram as [@ScoutAi_bot](https://t.me/ScoutAi_bot).
 
-<img src="https://hamker.me/knplfa4_luna.jpg" width="200" align="right">
+<img src="https://telegra.ph/file/54723ee15777014195829.jpg" width="200" align="center">
 
 ## Requirements
 
