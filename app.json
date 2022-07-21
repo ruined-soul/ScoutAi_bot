@@ -1,5 +1,4 @@
 {
-  "logo": "https://telegra.ph/file/54723ee15777014195829.jpg"
   "name": "Scout The Chat Bot",
   "description": "Just another Telegram AI chat bot written in Python using Pyrogram.",
   "repository": "https://github.com/ruined-soul/ScoutAi_bot",
@@ -28,7 +27,7 @@
     },
     "ARQ_API_BASE_URL": {
            "description": "ARQ URL ,Don't Change It",
-           "value": "https://arq.hamker.in",
+           "value": "t.me/AssistOfficial",
            "required": true
     }
   },
