@@ -30,7 +30,7 @@ async def scoutQuery(query: str, user_id: int):
         if LANGUAGE == "en"
         else (await arq.translate(query, "en")).result.translatedText
     )
-    resp = (await arq.scout(query, user_id)).result
+    resp = (await arq.luna(query, user_id)).result
     return (
         resp
         if LANGUAGE == "en"
