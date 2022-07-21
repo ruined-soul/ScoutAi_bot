@@ -32,4 +32,4 @@ $ python3 luna.py
 
 ## Note
 
-- For Any Help, Ask Here [ProgrammersHub](https://t.me/PatheticProgrammers)
+- For Any Help, Ask Here [𝕊𝕔𝕠𝕦𝕥](https://t.me/AssistOfficial)
